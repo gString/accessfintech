@@ -1,0 +1,4 @@
+Things I'd do in a real app:
+
+1. Learn more on GraphQL and best practices dealing with it
+2.
