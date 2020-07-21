@@ -1,16 +1,13 @@
 Things I'd do in a real app:
 
 	1.	Learn more on GraphQL and best practices dealing with it
-	2.	Error handling
-	3.	Loading handling
-	4.	Form: verifications and “mandatory” representation (asterisk)
-	5.	Using "mailto:" can cause security and spam issues. I would use server-side scripts instead
-	6.	Add scroll for the list
-	7.	Updating the list from server on any edit (i.e. new contact)
-	8.	UX / Product stuff: 
-	- edit, delete features. 
-	- Better adaption for different screens sizes and shapes (need some basic design) 
-	- Maybe add auto-close to the form on submit?
-	9.	Might be useful to have some app-level state system: context or even redux/mobx. 
-	Probably not worth to bother with right now, but if it is to develop into more complex app in the future - it might
-
+	2.	Testing
+	3.	Error handling
+	4.	Loading handling
+	5.	Form: verifications and “mandatory” represantation (asterisk)
+	6.	Using "mailto:" can cause security and spam issues. I would use server-side scripts instead
+	7.	Add scroll for the list
+	8.	Updating the list from server on any edit (i.e. new contact)
+	9.	UX / Product stuff: - edit, delete features. - Better adaption for different screens sizes and shapes (need some basic design) - Maybe add auto-close to the form on submit?
+	10.	Might be useful to have some app-level state system: context or even redux/mobx. Probably not at this point, but if it is to develop into more complex thing
+	11.	Browser comptabilty checks, more clean-up
