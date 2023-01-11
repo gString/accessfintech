@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import gql from "graphql-tag/src";
+import gql from "graphql-tag";
 import { useMutation } from "@apollo/react-hooks";
 
 import { BTN } from "./ContactsApp.style";
